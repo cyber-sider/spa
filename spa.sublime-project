@@ -1,0 +1,17 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "html"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "css"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "js"
+		}
+	]
+}
