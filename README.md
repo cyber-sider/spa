@@ -1,0 +1,1 @@
+Tutorials from "Single Page Web Applications" book published by Manning
